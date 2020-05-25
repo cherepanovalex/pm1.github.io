@@ -1,0 +1,256 @@
+/* сотовый телефон */
+@media (max-width: 767px) {
+    .scr1 {
+        left: 100px;
+        width: 170px;
+    }
+    .scr2 {
+        right: 0;
+        top: 470px;
+        width: 120px;
+    }
+    .logo img {
+        width: 90px;
+        height: 27px;
+    }
+    .user-btns a {
+        margin-left: 5px;
+        font-size: 18px;
+        line-height: 20px;
+        height: 27px;
+    }
+    header {
+        padding: 30px 0 0 0;
+    }
+    .team-info {
+         margin-top: 30px;
+         margin-left: 0;
+        font-size: 24px;
+    }
+    .bonus-block {
+         margin: 0 auto;
+         width: 300px;
+    }
+    .bonus-block .text1 {
+        font-size: 96px;
+        line-height: 96px;
+    }
+    .bonus-block .text1 span {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .bonus-block .text2 {
+        font-size: 43px;
+        line-height: 34px;
+    }
+    .bonus-btn {
+        font-size: 40px;
+        line-height: 52px;
+        height: 56px;
+    }
+    .rules-link {
+        max-width: 260px;
+    }
+    .parallax {
+        left: 0;
+    }
+    .messi{
+        width: 310px;
+    }
+    .ronaldo {
+        left: 110px;
+        width: 260px;
+    }
+    main{
+        padding-bottom: 318px;
+    }
+    .figures{
+        bottom: -120px;
+    }
+    .figures .scratch {
+        bottom: 100px;
+        left: 100px;
+        width: 255px;
+        height: 120px;
+        background-size: cover;
+        font-size: 14px;
+    }
+    .figures .scratch span {
+        padding: 40px 0 0 20px;
+    }
+    .footer-line {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .apps {
+        order: -1;
+        width: 100%;
+        margin-bottom: 10px;
+        justify-content: center;
+        display: flex;
+    }
+    .apps img {
+        width: 88px;
+    }
+    .vk{
+        width: 28px;
+        height: 28px;
+    }
+    .fb{
+        width: 28px;
+        height: 28px;
+    }
+    .inst{
+        width: 28px;
+        height: 28px;
+    }
+    .soc img{
+        width: 28px;
+        height: 28px;
+    }
+    .soc a {
+        margin-left: 5px;
+    }
+    .cards img {
+        margin: 0 5px 0 0;
+        width: 50px;
+    }
+    .cards{
+        margin-right: 40px;
+    }
+    .modal-terms {
+        padding: 55px 0px 20px;
+    }
+    .modal-terms-text {
+        max-height: 320px;
+    }
+
+
+}
+
+@media (min-width: 320px) and (max-width: 374px) {
+
+    .figures .scratch span {
+        padding: 40px 0 0 77px;
+    }
+
+
+
+}
+
+/* планшет */
+@media (min-width: 767px) and (max-width: 1099px) {
+    .scr1 {
+        left: 230px;
+    }
+    .scr2{
+        top: 480px;
+        right: 0;
+        width: 70px;
+    }
+    .animate .scr1{
+        left: 220px;
+    }
+
+    .team-info{
+        margin-left: 0;
+    }
+    .bonus-block {
+        margin: 200px auto 0 auto;
+        width: 300px;
+    }
+    .bonus-block .text1 {
+        font-size: 96px;
+        line-height: 96px;
+    }
+    .bonus-block .text1 span {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .bonus-block .text2 {
+        font-size: 43px;
+        line-height: 34px;
+    }
+    .bonus-btn {
+        font-size: 40px;
+        line-height: 52px;
+        height: 56px;
+    }
+    .rules-link {
+        max-width: 260px;
+    }
+    .parallax {
+        left: 0;
+    }
+    .messi {
+        left: 0;
+        width: 360px;
+    }
+    .ronaldo {
+        left: 270px;
+        width: 350px;
+    }
+    .figures .scratch {
+        left: 200px;
+        width: 300px;
+        height: 142px;
+        font-size: 18px;
+    }
+    .figures .scratch span {
+        padding: 45px 0 0 50px;
+    }
+}
+
+@media (min-width: 1100px) and (max-width: 1440px){
+    /*.team-info{
+        margin-left: 0;
+    }
+    .bonus-block {
+        margin: 200px auto 0 auto;
+        width: 300px;
+    }
+    .bonus-block .text1 {
+        font-size: 96px;
+        line-height: 96px;
+    }
+    .bonus-block .text1 span {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .bonus-block .text2 {
+        font-size: 43px;
+        line-height: 34px;
+    }
+    .bonus-btn {
+        font-size: 40px;
+        line-height: 52px;
+        height: 56px;
+    }
+    .rules-link {
+        max-width: 260px;
+    }*/
+    .parallax {
+        left: 50px;
+    }
+    .messi {
+        left: 0;
+        width: 360px;
+    }
+    .ronaldo {
+        left: 270px;
+        width: 350px;
+    }
+    .figures .scratch {
+        left: 200px;
+        width: 300px;
+        height: 142px;
+        font-size: 18px;
+    }
+    .figures .scratch span {
+        padding: 45px 0 0 50px;
+    }
+}
+
+
+
+
